@@ -1,10 +1,10 @@
 header{
-    background-color: #f9c4b794;
+    background-color: #cfd5e1;
     color: black;
     font-family: 'Times New Roman', Times, serif;
     padding: 30px;
     text-align: center;
-    border-bottom: 5px solid #350000c4;
+    border-bottom: 5px solid #6c788e;
     font-size: 45px;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 .texto{
-    color: #5f1d189a;
+    color: #1f192f;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
     .botone{
-        background-color: #d494849f;
+        background-color: #a6aec1;
         font-size: 20px;
         font-family: 'inter';
         font-weight: lighter;
@@ -56,6 +56,6 @@ body {
     }
    
     #resultado{
-        color: #b55a4a;
+        color: #6c788e;
         
     }
